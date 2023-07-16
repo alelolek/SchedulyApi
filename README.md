@@ -1,6 +1,6 @@
 # Scheduly - API REST para Gestión de Eventos
 
-![Arquitectura](https://github.com/alelolek/Scheduly/blob/main/DiagramaDeArquitectura.png)
+![Arquitectura](https://github.com/alelolek/SchedulyApi/blob/main/DiagramaDeArquitectura.jpg)
 
 ## Descripción del programa
 
