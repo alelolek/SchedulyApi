@@ -22,6 +22,9 @@ Scheduly es una poderosa API REST diseñada y desarrollada para facilitar la com
 - **Arquitectura de Capas**: Scheduly sigue una arquitectura en capas, lo que permite una mejor organización y separación de responsabilidades, facilitando el mantenimiento y la escalabilidad del sistema.
 - **AutoMapper**: Scheduly utiliza AutoMapper para mapear automáticamente los objetos DTO y entidades, simplificando la conversión de datos.
 
+## Demostración Proyecto Scheduly
+
+[Aplicación Web Api Rest con ASP.NET CORE 6 - Scheduly Api](https://youtu.be/uj0u_mKKFGo)
 
 ## Licencia
 
